@@ -20,6 +20,13 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Express Tutorial]() - What additional items did you work on?
 * [Promise Practice Exercises]()
 
+
+### Ahmad Kayyali
+
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
+
 ### Alexander Ela
 
 * [Node Server Tutorial]()
